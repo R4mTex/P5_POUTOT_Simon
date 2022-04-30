@@ -1,3 +1,0 @@
-mysql_connector
-requests
-tqdm
